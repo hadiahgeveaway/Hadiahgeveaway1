@@ -1,1 +1,1 @@
-# Hadiahgeveaway1
+# Hadiahgeveaway1BOT_TOKEN=
